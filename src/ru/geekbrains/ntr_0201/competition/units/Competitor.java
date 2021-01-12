@@ -1,8 +1,6 @@
 package ru.geekbrains.ntr_0201.competition.units;
 
-import ru.geekbrains.ntr_0201.competition.equipment.IObstacle;
-import ru.geekbrains.ntr_0201.competition.equipment.RunningTrack;
-import ru.geekbrains.ntr_0201.competition.equipment.Wall;
+import ru.geekbrains.ntr_0201.competition.equipment.*;
 
 public abstract class Competitor implements ICompetitor {
     private String name;
